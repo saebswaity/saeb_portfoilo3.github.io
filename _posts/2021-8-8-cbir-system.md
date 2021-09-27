@@ -3,7 +3,7 @@ title: "cbir system"
 date: 2021-8-8
 tags: [Projects, data science, messy data]
 header:
-  image: "images/Block-diagram-of-CBIR-system.png"
+  image: "images/cbir2.png"
 excerpt: "cbir, search,  pca"
 mathjax: "true"
 ---
