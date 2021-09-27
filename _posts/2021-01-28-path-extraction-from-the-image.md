@@ -3,7 +3,7 @@ title: "path extraction algorithm from the image "
 date: 2021-8-8
 tags: [paths, graph, image_processing]
 header:
-  image: ""
+  
 excerpt: "paths, graph, image_processing"
 mathjax: "true"
 ---
