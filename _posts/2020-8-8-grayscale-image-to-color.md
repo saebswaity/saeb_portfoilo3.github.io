@@ -3,7 +3,7 @@ title: "grayscale image to color image"
 date: 2020-8-8
 tags: [deeplearning,coloring ]
 
-excerpt: "Deep learning,vision, coloring"
+excerpt: "Deep learning, , coloring"
 mathjax: "true"
 ---
 
@@ -11,7 +11,7 @@ mathjax: "true"
 
 
 
-we design nuralnetwork using mobilene architecture by using transfer learning technic 
+we design nuralnetwork using mobilenet architecture by using transfer learning technic 
 
 
 Sample photos that have been tested 
