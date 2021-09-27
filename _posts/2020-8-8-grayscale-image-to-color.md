@@ -17,7 +17,9 @@ we design nuralnetwork using mobilene architecture by using transfer learning te
 Sample photos that have been tested 
 
 ![image]({{ site.url }}{{ site.baseurl }}/images/col.png)
+
 ![image]({{ site.url }}{{ site.baseurl }}/images/col1.png)
+
 ![image]({{ site.url }}{{ site.baseurl }}/images/col2.png)
 
 # H1 Heading
