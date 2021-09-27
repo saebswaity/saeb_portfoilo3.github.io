@@ -3,7 +3,7 @@ title: "grayscale image to color image"
 date: 2020-8-8
 tags: [deeplearning,coloring ]
 
-excerpt: "Deep learning,computer vison, coloring"
+excerpt: "Deep learning,vision, coloring"
 mathjax: "true"
 ---
 
