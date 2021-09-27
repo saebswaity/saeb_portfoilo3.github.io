@@ -2,7 +2,7 @@
 title: "path extraction algorithm from the image "
 date: 2021-8-8
 tags: [paths, graph, image_processing]
-header:
+
   
 excerpt: "paths, graph, image_processing"
 mathjax: "true"
@@ -14,7 +14,7 @@ CNC machines are characterized by precision and high accuracy, but they require 
 Here are some excellent results .
 
 ![image](/vid_path1.gif)
-![image](/vid_path.gif)
+
 
 
 
