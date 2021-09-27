@@ -1,6 +1,6 @@
 ---
 title: "grayscale image to color image"
-date: 2020-8-8
+date: 2021-8-8
 tags: [deeplearning,coloring ]
 
 excerpt: "Deep learning, , coloring"
