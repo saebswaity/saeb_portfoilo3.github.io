@@ -1,3 +1,4 @@
+name this file "2018-01-28-perceptron" to work and also delte this line that you are reading it know 
 ---
 title: "Projects"
 date: 2018-01-28
