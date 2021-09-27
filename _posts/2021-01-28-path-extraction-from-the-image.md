@@ -8,11 +8,9 @@ excerpt: "paths, graph, image_processing"
 mathjax: "true"
 ---
 
-# H1 Heading
 
-## H2 Heading
 
-### H3 Heading
+CNC machines are characterized by precision and high accuracy, but they require experts to work with them, and you need programming to tell them how to move on the piece to be work, so we designed an algorithm to make dealing with the CNC machine easier by automatically generating a path by taking a picture of the piece to be worked Work with it and then perform image processing operations on it. Here are some excellent results 
 
 Here's some basic text.
 
