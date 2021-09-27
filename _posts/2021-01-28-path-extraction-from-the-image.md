@@ -14,7 +14,7 @@ CNC machines are characterized by precision and high accuracy, but they require 
 Here are some excellent results .
 
 ![image](/vid_path1.gif)
-
+![alt]({{ site.url }}{{ site.baseurl }}/vid_path1.gif)
 
 
 
