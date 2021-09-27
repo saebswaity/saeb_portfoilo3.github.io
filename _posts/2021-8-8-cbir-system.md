@@ -3,10 +3,12 @@ title: "cbir system"
 date: 2021-8-8
 tags: [Projects, data science, messy data]
 header:
-  image: "/images/perceptron/percept.jpg"
-excerpt: "Data Projects, Data Science, Messy Data"
+  image: "images/Block-diagram-of-CBIR-system.png"
+excerpt: "cbir, search,  pca"
 mathjax: "true"
 ---
+Content-based image retrieval "CBIR" mallows us to search in a database of images by entering an image and not words, the system will search for images similar to the image that was attached to the search 
+
 
 # H1 Heading
 
