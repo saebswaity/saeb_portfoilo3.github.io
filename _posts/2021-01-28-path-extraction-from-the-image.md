@@ -3,7 +3,7 @@ title: "path extractio from the image "
 date: 2021-01-28
 tags: [paths, graph, image_processing]
 header:
-  image: "vid_path.gif"
+  image: "https://github.com/saebswaity/saeb_portfoilo3.github.io/blob/cdb0c41b60b582fce487687038f04da4d5c058f5/vid_path.gif"
 excerpt: "paths, graph, image_processing"
 mathjax: "true"
 ---
