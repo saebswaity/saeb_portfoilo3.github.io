@@ -11,7 +11,7 @@ mathjax: "true"
 
 
 
-we design nuralnetwork using mobilenet architecture by using transfer learning technic 
+we design nuralnetwork using mobilenet architecture by using transfer learning technique 
 
 
 Sample photos that have been tested 
