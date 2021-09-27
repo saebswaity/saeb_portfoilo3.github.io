@@ -5,6 +5,4 @@ header:
   image: "/images/aideep.jpeg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
-
-Etc, etc, etc
+I am a computer engineer interested in machine learning and computer vision. Here you can find some of my projects
