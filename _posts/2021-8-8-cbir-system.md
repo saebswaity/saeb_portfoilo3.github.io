@@ -12,5 +12,5 @@ Content-based image retrieval "CBIR" allows us to search in a database of images
 The system needs a feature to match, so we used pca, it's a classic but powerful machine learning tool, implemented on the cbir 10 database, here is an example of the results.
 
 ![bird]({{ site.url }}{{ site.baseurl }}/images/bird.png)
-![bird]({{ site.url }}{{ site.baseurl }}/images/bird2.png)
+![bird]({{ site.url }}{{ site.baseurl }}/images/bird3.png)
 
