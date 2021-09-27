@@ -3,7 +3,7 @@ title: "path extractio from the image "
 date: 2021-01-28
 tags: [paths, graph, image_processing]
 header:
-  image: "/vid_path.gif"
+  image: "/vid_path1.gif"
 excerpt: "paths, graph, image_processing"
 mathjax: "true"
 ---
