@@ -1,8 +1,6 @@
-
-
 ---
 title: "path extractio from the image "
-date: 2018-01-28
+date: 2021-01-28
 tags: [paths, graph, image_processing]
 header:
   image: "vid_path.gif"
